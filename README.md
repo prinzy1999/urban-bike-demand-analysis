@@ -36,7 +36,7 @@ Three available variables were deliberately excluded from the regression models:
 
 **Source:** [UCI Machine Learning Repository — Bike Sharing Dataset](https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset) 
 
-**Dataset DOI:** `10.24432/C5W894`
+**Dataset DOI:** [10.24432/C5W894](https://doi.org/10.24432/C5W894)
 
 ## Methodology
 
