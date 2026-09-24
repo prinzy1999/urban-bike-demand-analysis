@@ -213,7 +213,6 @@ outputs/session_info.txt
 ```
 
 To reproduce the analysis:
-To reproduce the analysis:
 
 1. Clone or download this repository.
 2. Ensure the dataset is stored at `data/hour.csv`.
