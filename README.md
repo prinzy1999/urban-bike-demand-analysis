@@ -204,6 +204,7 @@ If these packages are not already installed, they can be installed with:
 
 ```r
 install.packages(c("tidyverse", "car", "MASS", "glmnet"))
+```
 
 Package and R version information generated during the analysis is stored in:
 
@@ -211,6 +212,7 @@ Package and R version information generated during the analysis is stored in:
 outputs/session_info.txt
 ```
 
+To reproduce the analysis:
 To reproduce the analysis:
 
 1. Clone or download this repository.
