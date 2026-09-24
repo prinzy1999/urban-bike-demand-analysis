@@ -240,7 +240,7 @@ The dataset used in this project is the **Bike Sharing Dataset** from the UCI Ma
 
 The data were originally associated with the following research:
 
-> Fanaee-T, H. and Gama, J. (2014). Event labeling combining ensemble detectors and background knowledge. *Progress in Artificial Intelligence, 2*, 113–127.
+> Fanaee-T, H. (2013). Bike Sharing [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5W894.
 
 **Dataset:** Bike Sharing  
 **Repository:** UCI Machine Learning Repository  
