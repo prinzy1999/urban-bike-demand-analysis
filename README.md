@@ -269,7 +269,7 @@ The data were originally associated with the following research:
 
 **Dataset:** Bike Sharing  
 **Repository:** UCI Machine Learning Repository  
-**DOI:** `10.24432/C5W894`
+**DOI:** [10.24432/C5W894](https://doi.org/10.24432/C5W894)
 
 The dataset contains Capital Bikeshare rental information from Washington D.C. for 2011 and 2012.
 
