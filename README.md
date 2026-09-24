@@ -228,6 +228,14 @@ To reproduce the analysis:
 
 The script performs the data validation, exploratory analysis, model fitting, evaluation, and generation of the figures and tables used in this repository.
 
+## Conclusion
+
+This project demonstrates an end-to-end statistical analysis of hourly bike-sharing demand, from data validation and exploratory analysis through regression modelling and out-of-sample evaluation.
+
+The regression models substantially improved predictive performance compared with the mean baseline, with the Full MLR achieving an RMSE of 102.747 and an R² of 0.668 on the held-out test set. Stepwise regression produced effectively identical performance, while LASSO produced very similar results.
+
+The analysis also highlighted limitations of the linear modelling approach, particularly at higher demand levels. Overall, the Full MLR is retained as the main interpretable regression benchmark rather than being treated as substantially superior to the alternative regression approaches.
+
 ## Limitations
 
 This project has several limitations that should be considered when interpreting the results:
