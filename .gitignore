@@ -1,0 +1,18 @@
+# R workspace and history files
+.RData
+.Rhistory
+.Ruserdata
+
+# RStudio project user settings
+.Rproj.user/
+
+# Temporary files
+*.Rtmp
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+# Unused UCI dataset files
+data/day.csv
+data/Readme.txt
