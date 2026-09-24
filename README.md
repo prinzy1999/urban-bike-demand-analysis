@@ -35,6 +35,7 @@ Three available variables were deliberately excluded from the regression models:
 - `weekday` — excluded because working-day and holiday indicators were used to represent the main calendar distinction of interest.
 
 **Source:** [UCI Machine Learning Repository — Bike Sharing Dataset](https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset) 
+
 **Dataset DOI:** `10.24432/C5W894`
 
 ## Methodology
