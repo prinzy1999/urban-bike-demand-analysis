@@ -200,6 +200,11 @@ The main packages used are:
 - `MASS` — backward stepwise model selection
 - `glmnet` — LASSO regression and cross-validation
 
+If these packages are not already installed, they can be installed with:
+
+```r
+install.packages(c("tidyverse", "car", "MASS", "glmnet"))
+
 Package and R version information generated during the analysis is stored in:
 
 ```text
