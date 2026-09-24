@@ -14,6 +14,17 @@ The project compares a mean baseline model with:
 
 Model performance is evaluated on a held-out test set using Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and R-squared (R²).
 
+### Quick Results
+
+| Metric | Full MLR |
+|---|---:|
+| Test RMSE | 102.747 |
+| Test MAE | 76.131 |
+| Test R² | 0.668 |
+| RMSE improvement over mean baseline | 42.38% |
+
+The Full MLR, Stepwise MLR, and LASSO produced very similar test-set performance. The Full MLR is used as the main interpretable regression benchmark.
+
 ## Dataset
 
 The analysis uses the **Bike Sharing Dataset** from the UCI Machine Learning Repository. The dataset contains hourly bike rental records from the Capital Bikeshare system in Washington D.C. during 2011 and 2012.
