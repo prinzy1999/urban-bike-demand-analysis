@@ -534,9 +534,6 @@ cat("Non-zero LASSO predictor coefficients:",lasso_nonzero_count,"\n")
 
 # At lambda.min, LASSO retained all 42 encoded predictor coefficients.
 
-# A more regularised lambda.1se solution was also examined separately,
-# but its small reduction in model complexity came with slightly worse
-# held-out test performance, so lambda.min is retained for comparison.
 
 # 16. LASSO TEST-SET PERFORMANCE
 
