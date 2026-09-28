@@ -14,6 +14,18 @@ The project compares a mean baseline model with:
 
 Model performance is evaluated on a held-out test set using Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and R-squared (R²).
 
+## Interactive Tableau Dashboard
+
+An interactive Tableau dashboard was developed to complement the statistical analysis and provide a business-focused view of bike-sharing demand patterns.
+
+The dashboard explores hourly demand, working vs non-working day behaviour, weather conditions, monthly and seasonal patterns, temperature relationships, and year-over-year demand.
+
+**[View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/princewill.madugba/viz/urbanbikedemand/UrbanBike-SharingDemandAnalysis)**
+
+Key dashboard indicators:
+- Average hourly rentals: **189.5**
+- Peak demand hour: **17:00**
+
 ### Quick Results
 
 | Metric | Full MLR |
